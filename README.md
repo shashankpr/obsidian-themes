@@ -8,7 +8,7 @@ P.S: Checkout https://github.com/jarodise/Dracula-for-Obsidian.md and https://gi
 This is an awesome theme that I used to love and use in Bear. Checkout the sample images for the `Editor` and the `Preview` mode, and the `Graph view`
 
 **Editor and Preview mode**
-![](./Panic Mode/panic_mode.png)
+![](./Panic\_Mode/panic_mode.png)
 
 **Graph View**
 ![](./Panic\_Mode/panic_graph.png)
